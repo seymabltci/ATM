@@ -1,0 +1,7 @@
+C:\Users\HSMUSER\source\repos\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\HSMUSER\source\repos\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\HSMUSER\source\repos\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\HSMUSER\source\repos\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\HSMUSER\source\repos\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\HSMUSER\source\repos\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\HSMUSER\source\repos\ATM\ATM\obj\Debug\ATM.pdb
